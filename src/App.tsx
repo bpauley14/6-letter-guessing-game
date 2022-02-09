@@ -132,7 +132,7 @@ function App() {
 
     const winningWord = isWinningWord(currentGuess)
 
-    if (currentGuess.length === 6 && guesses.length < 7 && !isGameWon) {
+    if (currentGuess.length === 6 && guesses.length < 6 && !isGameWon) {
       setGuesses([...guesses, currentGuess])
       setCurrentGuess('')
 
