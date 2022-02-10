@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/6-letter-wordle-bootstrap/static/css/main.575fab25.css",
-    "main.js": "/6-letter-wordle-bootstrap/static/js/main.c0ec3ea5.js",
+    "main.css": "/6-letter-wordle-bootstrap/static/css/main.752ab0da.css",
+    "main.js": "/6-letter-wordle-bootstrap/static/js/main.db2dc9f2.js",
     "static/js/787.e01666d6.chunk.js": "/6-letter-wordle-bootstrap/static/js/787.e01666d6.chunk.js",
     "index.html": "/6-letter-wordle-bootstrap/index.html",
-    "main.575fab25.css.map": "/6-letter-wordle-bootstrap/static/css/main.575fab25.css.map",
-    "main.c0ec3ea5.js.map": "/6-letter-wordle-bootstrap/static/js/main.c0ec3ea5.js.map",
+    "main.752ab0da.css.map": "/6-letter-wordle-bootstrap/static/css/main.752ab0da.css.map",
+    "main.db2dc9f2.js.map": "/6-letter-wordle-bootstrap/static/js/main.db2dc9f2.js.map",
     "787.e01666d6.chunk.js.map": "/6-letter-wordle-bootstrap/static/js/787.e01666d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.575fab25.css",
-    "static/js/main.c0ec3ea5.js"
+    "static/css/main.752ab0da.css",
+    "static/js/main.db2dc9f2.js"
   ]
 }
