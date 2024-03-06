@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/6-letter-wordle-bootstrap/static/css/main.3a6ba60f.css",
-    "main.js": "/6-letter-wordle-bootstrap/static/js/main.0ec23c9d.js",
-    "static/js/787.3500bfec.chunk.js": "/6-letter-wordle-bootstrap/static/js/787.3500bfec.chunk.js",
-    "index.html": "/6-letter-wordle-bootstrap/index.html",
-    "main.3a6ba60f.css.map": "/6-letter-wordle-bootstrap/static/css/main.3a6ba60f.css.map",
-    "main.0ec23c9d.js.map": "/6-letter-wordle-bootstrap/static/js/main.0ec23c9d.js.map",
-    "787.3500bfec.chunk.js.map": "/6-letter-wordle-bootstrap/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/6-letter-guessing-game/static/css/main.805a6873.css",
+    "main.js": "/6-letter-guessing-game/static/js/main.a43afdc8.js",
+    "static/js/453.dfa4e016.chunk.js": "/6-letter-guessing-game/static/js/453.dfa4e016.chunk.js",
+    "index.html": "/6-letter-guessing-game/index.html",
+    "main.805a6873.css.map": "/6-letter-guessing-game/static/css/main.805a6873.css.map",
+    "main.a43afdc8.js.map": "/6-letter-guessing-game/static/js/main.a43afdc8.js.map",
+    "453.dfa4e016.chunk.js.map": "/6-letter-guessing-game/static/js/453.dfa4e016.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a6ba60f.css",
-    "static/js/main.0ec23c9d.js"
+    "static/css/main.805a6873.css",
+    "static/js/main.a43afdc8.js"
   ]
 }
