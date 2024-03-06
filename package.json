@@ -1,8 +1,8 @@
 {
-  "name": "wordle",
+  "name": "6-letter-guessing-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bpauley14.github.io/6-letter-wordle-bootstrap/",
+  "homepage": "https://bpauley14.github.io/6-letter-guessing-game/",
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.5",
