@@ -32,7 +32,7 @@ const ALERT_TIME_MS = 2000
 
 function App() {
   const prefersDarkMode = window.matchMedia(
-    '(prefers-color-scheme: dark)'
+    '(prefers-color-scheme: dark)',
   ).matches
 
   const [currentGuess, setCurrentGuess] = useState('')
@@ -47,8 +47,8 @@ function App() {
     localStorage.getItem('theme')
       ? localStorage.getItem('theme') === 'dark'
       : prefersDarkMode
-      ? true
-      : false
+        ? true
+        : false,
   )
   const [successAlert, setSuccessAlert] = useState('')
   const [guesses, setGuesses] = useState<string[]>(() => {
@@ -88,7 +88,7 @@ function App() {
   useEffect(() => {
     if (isGameWon) {
       setSuccessAlert(
-        WIN_MESSAGES[Math.floor(Math.random() * WIN_MESSAGES.length)]
+        WIN_MESSAGES[Math.floor(Math.random() * WIN_MESSAGES.length)],
       )
       setTimeout(() => {
         setSuccessAlert('')

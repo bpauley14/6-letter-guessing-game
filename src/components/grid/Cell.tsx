@@ -19,7 +19,7 @@ export const Cell = ({ value, status }: Props) => {
       'bg-orange-500 dark:bg-orange-700 text-white border-orange-500 dark:border-orange-700':
         status === 'present',
       'cell-animation': !!value,
-    }
+    },
   )
 
   return <div className={classes}>{value}</div>

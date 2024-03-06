@@ -2498,5 +2498,5 @@ export const WORDS = [
   'bolero',
   'glossy',
   'branch',
-  'impose'
+  'impose',
 ]

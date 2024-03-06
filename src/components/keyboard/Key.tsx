@@ -28,7 +28,7 @@ export const Key = ({
         status === 'correct',
       'bg-orange-500 hover:bg-orange-600 active:bg-orange-700 dark:bg-orange-700 text-white':
         status === 'present',
-    }
+    },
   )
 
   const handleClick: React.MouseEventHandler<HTMLButtonElement> = (event) => {
