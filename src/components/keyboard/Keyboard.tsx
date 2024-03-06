@@ -45,7 +45,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
 
   return (
     <div>
-      <div className="icon-row">
+      <div className="flex justify-center mb-1">
         <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
         <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
         <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
