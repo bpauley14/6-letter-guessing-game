@@ -46,9 +46,9 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
   return (
     <div>
       <div className="icon-row">
-        <img src="logo.png" alt="Turd Icon" />
-        <img src="logo.png" alt="Turd Icon" />
-        <img src="logo.png" alt="Turd Icon" />
+        <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
+        <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
+        <img src="logo.png" alt="Turd Icon" style={{width: '20px', height: '20px'}} />
       </div>
       <div className="flex justify-center mb-1">
         <Key value="Q" onClick={onClick} status={charStatuses['Q']} />
