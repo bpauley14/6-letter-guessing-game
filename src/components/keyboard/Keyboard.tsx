@@ -45,7 +45,7 @@ export const Keyboard = ({ onChar, onDelete, onEnter, guesses }: Props) => {
 
   return (
     <div>
-      <div class="icon-row">
+      <div className="icon-row">
         <img src="logo.png" alt="Turd Icon" />
         <img src="logo.png" alt="Turd Icon" />
         <img src="logo.png" alt="Turd Icon" />
