@@ -1,5 +1,6 @@
 export const WORDS = [
   'cation',
+  'bellyman',
   'anthem',
   'oppose',
   'canids',
@@ -8,7 +9,6 @@ export const WORDS = [
   'border',
   'poster',
   'fixing',
-  'banked',
   'nickel',
   'biogas',
   'oceans',
